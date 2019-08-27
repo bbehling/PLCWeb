@@ -1,5 +1,8 @@
 # Controls Vue Web
 
+## Dependancy on PLC API
+https://github.com/bbehling/PLCWebAPI
+
 ## Project setup
 ```
 npm install

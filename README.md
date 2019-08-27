@@ -1,4 +1,4 @@
-# vue_test
+# Controls Vue Web
 
 ## Project setup
 ```

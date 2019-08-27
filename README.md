@@ -1,7 +1,7 @@
-# Controls Vue Web
+# PLC Web Vue
 
 ## Dependancy on PLC API
-https://github.com/bbehling/PLCWebAPI
+https://github.com/bbehling/PLCAPI
 
 ## Project setup
 ```
